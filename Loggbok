@@ -1,0 +1,7 @@
+Dag 1: Gick igenom uppgiften och analyserade vilken logik som behövde enhetstestas.
+Dag 2: Studerade kodstrukturen och identifierade metoder som går att testa utan konsolberoende.
+Dag 3: Satte upp testprojektet och skrev grundläggande tester för avgifter och tidsformattering.
+Dag 4: Skapade tester för parkering och borttagning av fordon i Garage-klassen.
+Dag 5: Implementerade och testade flyttlogiken samt hantering av fulla rutor.
+Dag 6: Testade MC-delning i en ruta och gjorde mindre justeringar av logiken.
+Dag 7: Städade testkoden, körde alla tester och avslutade dokumentationen.
